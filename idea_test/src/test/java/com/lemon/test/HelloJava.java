@@ -1,3 +1,5 @@
+package com.lemon.test;
+
 import sun.applet.Main;
 import sun.misc.PostVMInitHook;
 
